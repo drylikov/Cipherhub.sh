@@ -40,4 +40,3 @@ hello world
     $ ch < msg
 
 ```
-
