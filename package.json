@@ -1,0 +1,16 @@
+
+{
+  "name": "cipherhub.sh",
+  "version": "0.1.0",
+  "description": "shell alternative to substacks cipherhub",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/cipherhub.sh.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drylikov/cipherhub.sh/issues"
+  },
+  "homepage": "https://github.com/drylikov/cipherhub.sh",
+  "bin": { "ch": "bin/ch" }
+}
